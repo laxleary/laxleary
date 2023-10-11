@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laxleary
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R and Tableau
+- 🌱 I’m currently learning R and Tableau through the edX Data Analytics Bootcamp
 - 📫 How to reach me aleary@fordham.edu
 
 <!---
